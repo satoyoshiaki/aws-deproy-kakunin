@@ -1,0 +1,2 @@
+class Awsde < ApplicationRecord
+end
